@@ -1,2 +1,1 @@
-# TinDog-Replicated_Site
-A replicated site tindog.
+TinDog Starting Files
